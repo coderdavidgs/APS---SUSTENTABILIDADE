@@ -1,0 +1,28 @@
+		.navbar{
+			list-style-type: none ;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+			background-image: url("natureza.jpg");
+						}
+			
+
+		li {
+			float : left;
+				}
+		li a {
+			color: black;
+			display: block;
+			text-align: center;
+			padding: 28px 30px;
+			text-decoration: none;
+				}
+
+		.center:hover{
+			background-color:white;
+				}
+
+
+		.center{
+			margin-left: 15vh;
+				}
